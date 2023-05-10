@@ -6,7 +6,7 @@
 I am a Computer Science student from NYC. 
 - 🔭 Studied Computer Science.
 - 👀 My interest are in web applications the backend development parts.
-- 👀 I like to learn about hacking.
+- 👀 I like to learn about ethical hacking/cybersecurity.
 - 🌱 My hobbies also lay in machine learning/AI.
 
 - 📫 How to reach me - just linkedin idk, [![Linkedin Badge](https://img.shields.io/badge/-Gus-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gus-rosales/) 
