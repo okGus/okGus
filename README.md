@@ -11,11 +11,6 @@ I am a Computer Science student from NYC.
 
 - 📫 How to reach me - just linkedin idk, [![Linkedin Badge](https://img.shields.io/badge/-Gus-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gus-rosales/) 
 
-- 🔭 I’m studying Computer Science with an interest in building web applications.
-- 🌱 Working on Data Structures and Algorithms.
-- 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Patrick-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patricklisiecki/)
-- ⚡ In my free time, I enjoy weightlifting.
-
 <!---
 okGus/okGus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
