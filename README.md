@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&width=525&lines=Yo+%F0%9F%91%8B%2C+I'm+Gus)](https://git.io/typing-svg)
 <hr />
 
+### 👨‍💻 About Me:
+
 - 👋 Hi, I’m Gus
 - 👀 I’m interested in learning what I don't know
 - 🌱 I’m currently learning a machine learning (hobby kekw)
