@@ -5,7 +5,7 @@
 
 I am a Computer Science student from NYC. 
 - 🔭 Studied Computer Science.
-- 👀 My interest are in web applications the backend development parts.
+- 👀 My interest are in the backend development.
 - 👀 I like to learn about ethical hacking/cybersecurity.
 - 🌱 My hobbies also lay in machine learning/AI.
 
